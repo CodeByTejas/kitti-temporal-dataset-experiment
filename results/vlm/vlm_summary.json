@@ -1,0 +1,119 @@
+{
+ "single": {
+  "acc": 0.4222222222222222,
+  "macro_f1": 0.31790123456790126,
+  "invalid": 0,
+  "answer_distribution": {
+   "stopped": 0,
+   "straight": 33,
+   "left": 0,
+   "right": 12
+  },
+  "cm": [
+   [
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    14,
+    0,
+    1
+   ],
+   [
+    0,
+    9,
+    0,
+    6
+   ],
+   [
+    0,
+    10,
+    0,
+    5
+   ]
+  ]
+ },
+ "sequence": {
+  "acc": 0.3333333333333333,
+  "macro_f1": 0.16666666666666666,
+  "invalid": 0,
+  "answer_distribution": {
+   "stopped": 0,
+   "straight": 45,
+   "left": 0,
+   "right": 0
+  },
+  "cm": [
+   [
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    15,
+    0,
+    0
+   ],
+   [
+    0,
+    15,
+    0,
+    0
+   ],
+   [
+    0,
+    15,
+    0,
+    0
+   ]
+  ]
+ },
+ "shuffled": {
+  "acc": 0.35555555555555557,
+  "macro_f1": 0.2116294793779581,
+  "invalid": 0,
+  "answer_distribution": {
+   "stopped": 0,
+   "straight": 43,
+   "left": 0,
+   "right": 2
+  },
+  "cm": [
+   [
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    15,
+    0,
+    0
+   ],
+   [
+    0,
+    14,
+    0,
+    1
+   ],
+   [
+    0,
+    14,
+    0,
+    1
+   ]
+  ]
+ },
+ "embedding_single_same_windows": {
+  "acc": 0.37777777777777777
+ },
+ "embedding_transformer_same_windows": {
+  "acc": 0.6444444444444445
+ }
+}

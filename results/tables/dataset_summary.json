@@ -1,0 +1,19 @@
+{
+  "window": {
+    "T": 8,
+    "gap": 2,
+    "stride": 2,
+    "span_s": 1.4000000000000001
+  },
+  "thresholds": {
+    "mode": "3class",
+    "stop_disp_m": 0.3,
+    "move_disp_m": 1.5,
+    "yaw_lo_deg": 3.0,
+    "yaw_hi_deg": 9.0
+  },
+  "windows_before_filter": 11529,
+  "windows_after_filter": 9194,
+  "total_frames": 23201,
+  "total_windows": 9194
+}

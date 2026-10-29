@@ -1,0 +1,4 @@
+split,stopped,straight,left,right
+test,0,1067,142,222
+train,0,4731,915,1063
+val,0,715,138,201
